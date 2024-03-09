@@ -1,0 +1,10 @@
+C:\Users\is laptop\source\repos\Guess_game-csh\Guess_game-csh\bin\Debug\Guess_game-csh.exe.config
+C:\Users\is laptop\source\repos\Guess_game-csh\Guess_game-csh\bin\Debug\Guess_game-csh.exe
+C:\Users\is laptop\source\repos\Guess_game-csh\Guess_game-csh\bin\Debug\Guess_game-csh.pdb
+C:\Users\is laptop\source\repos\Guess_game-csh\Guess_game-csh\obj\Debug\Guess_game-csh.csproj.AssemblyReference.cache
+C:\Users\is laptop\source\repos\Guess_game-csh\Guess_game-csh\obj\Debug\Guess_game_csh.Form1.resources
+C:\Users\is laptop\source\repos\Guess_game-csh\Guess_game-csh\obj\Debug\Guess_game_csh.Properties.Resources.resources
+C:\Users\is laptop\source\repos\Guess_game-csh\Guess_game-csh\obj\Debug\Guess_game-csh.csproj.GenerateResource.cache
+C:\Users\is laptop\source\repos\Guess_game-csh\Guess_game-csh\obj\Debug\Guess_game-csh.csproj.CoreCompileInputs.cache
+C:\Users\is laptop\source\repos\Guess_game-csh\Guess_game-csh\obj\Debug\Guess_game-csh.exe
+C:\Users\is laptop\source\repos\Guess_game-csh\Guess_game-csh\obj\Debug\Guess_game-csh.pdb
